@@ -1,0 +1,12 @@
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd ViharPatel/<!-- smalldelayhere -->About_Me
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- smalldelayhere -->vihar_patel.txt<br/><br/>
+"<span id="k">Porfolio coming soon! (July, 2019)</span>"
+
+
+<!-- slightdelayhere-->Feel free to send me an <a href="mailto:vihar_pat95@gmail.com">email!<!-- longlonglongcomment --></a>
+
+<p>You can view the code <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
+
+<p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/raw/master/Resume_ViharPatel_SE_2019.pdf">here.</a></p><!-- lag -->
+
+<p>Peace!</p>
